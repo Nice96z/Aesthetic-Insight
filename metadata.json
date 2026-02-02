@@ -1,0 +1,7 @@
+{
+  "name": "Aesthetic Insight: Preference Analytics",
+  "description": "A sophisticated self-discovery tool that uses adaptive algorithms to map and analyze your aesthetic preferences, providing geographic hotspots and high-fidelity personality reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
